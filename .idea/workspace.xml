@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="torpedo:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c339e539-c182-4d5a-a215-ffe0b7f2687f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="package-info" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="20sIvv61WatficC90EC2jKBtrip" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="238" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="optimize.imports.on.save" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.torpedo">
+    <configuration name="torpedo" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="controller.MainController" />
+      <module name="torpedo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestField" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="torpedo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TestField" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="torpedo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="model" />
+      <option name="MAIN_CLASS_NAME" value="model.TestPlayer" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.torpedo" />
+      <item itemvalue="JUnit.TestField" />
+      <item itemvalue="JUnit.TestPlayer" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestPlayer" />
+        <item itemvalue="JUnit.TestField" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c339e539-c182-4d5a-a215-ffe0b7f2687f" name="Changes" comment="" />
+      <created>1636827102970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636827102970</updated>
+      <workItem from="1636827104287" duration="991000" />
+      <workItem from="1636848288591" duration="1224000" />
+      <workItem from="1636886973626" duration="1700000" />
+      <workItem from="1636888877632" duration="2501000" />
+      <workItem from="1636900597288" duration="3437000" />
+      <workItem from="1636904127712" duration="1021000" />
+      <workItem from="1636906634047" duration="1612000" />
+      <workItem from="1636908307763" duration="12588000" />
+      <workItem from="1637024946856" duration="236000" />
+      <workItem from="1637026176646" duration="104000" />
+      <workItem from="1637028535653" duration="3237000" />
+      <workItem from="1637031855008" duration="7204000" />
+      <workItem from="1637072160482" duration="4086000" />
+      <workItem from="1637076305720" duration="67000" />
+      <workItem from="1637076389190" duration="8746000" />
+      <workItem from="1637151713004" duration="2487000" />
+      <workItem from="1637314394192" duration="198000" />
+      <workItem from="1637535576415" duration="389000" />
+      <workItem from="1637536049620" duration="314000" />
+      <workItem from="1637536389343" duration="2372000" />
+      <workItem from="1637569337963" duration="14161000" />
+      <workItem from="1637587473839" duration="802000" />
+      <workItem from="1637588813171" duration="53067000" />
+      <workItem from="1637731923793" duration="9041000" />
+      <workItem from="1637917593973" duration="1195000" />
+      <workItem from="1637943026866" duration="227000" />
+      <workItem from="1637943284777" duration="49000" />
+      <workItem from="1637943350460" duration="1781000" />
+      <workItem from="1637948087522" duration="1444000" />
+      <workItem from="1637949623843" duration="298000" />
+      <workItem from="1637949949228" duration="38615000" />
+      <workItem from="1638060113630" duration="11000" />
+      <workItem from="1638060163201" duration="2546000" />
+      <workItem from="1638094733140" duration="1879000" />
+      <workItem from="1638097286020" duration="5786000" />
+      <workItem from="1638105928901" duration="3472000" />
+      <workItem from="1638109479983" duration="15763000" />
+      <workItem from="1638189940267" duration="4207000" />
+      <workItem from="1638212393744" duration="767000" />
+      <workItem from="1638214225471" duration="428000" />
+      <workItem from="1638214685940" duration="10548000" />
+      <workItem from="1638267804533" duration="398000" />
+      <workItem from="1638270026554" duration="613000" />
+      <workItem from="1638270859196" duration="271000" />
+      <workItem from="1638271153059" duration="186000" />
+      <workItem from="1638271365892" duration="94000" />
+      <workItem from="1638271486068" duration="607000" />
+      <workItem from="1638272143588" duration="13554000" />
+      <workItem from="1638325697772" duration="327000" />
+      <workItem from="1638346084716" duration="1540000" />
+      <workItem from="1638407869776" duration="100000" />
+      <workItem from="1646933463797" duration="613000" />
+      <workItem from="1648075243155" duration="130000" />
+      <workItem from="1648075466301" duration="1747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ExceptionInInitializerError" package="java.lang" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/torpedo$TestTable.ic" NAME="TestTable Coverage Results" MODIFIED="1638235940475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/torpedo$TestPlayer.ic" NAME="TestPlayer Coverage Results" MODIFIED="1638282074367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/torpedo$TestField_testShip.ic" NAME="TestField.testShip Coverage Results" MODIFIED="1637948976042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/torpedo$TestField.ic" NAME="TestField Coverage Results" MODIFIED="1638212580537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>model.*</FILTER>
+    </SUITE>
+  </component>
+</project>
