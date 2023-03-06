@@ -16,6 +16,7 @@ public class MainController {
      * @param args parancssori programargumentumok.
      */
     public static void main(String[] args){
+        System.out.println("Hello World!");
         guiController = new GUIController();
     }
 
