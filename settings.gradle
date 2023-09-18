@@ -11,4 +11,4 @@ plugins {
 }
 
 rootProject.name = 'torpedo'
-include('app')
+include('Battleship')
