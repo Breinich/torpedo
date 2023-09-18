@@ -8,6 +8,7 @@
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
     id 'application'
+    id "org.sonarqube" version "4.3.1.3277"
 }
 
 repositories {
@@ -33,4 +34,12 @@ java {
 application {
     // Define the main class for the application.
     mainClass = 'torpedo.controller.MainController'
+}
+
+sonar {
+    properties {
+        property "sonar.projectKey", "Breinich_torpedo"
+        property "sonar.organization", "breinich"
+        property "sonar.host.url", "https://sonarcloud.io"
+    }
 }
