@@ -8,6 +8,7 @@
 plugins {
     // Apply the application plugin to add support for building a CLI application in Java.
     id 'application'
+    id "jacoco"
     id "org.sonarqube" version "4.3.1.3277"
 }
 
@@ -41,5 +42,11 @@ sonar {
         property "sonar.projectKey", "Breinich_torpedo"
         property "sonar.organization", "breinich"
         property "sonar.host.url", "https://sonarcloud.io"
+    }
+}
+
+jacocoTestReport {
+    reports {
+        xml.required = true
     }
 }
